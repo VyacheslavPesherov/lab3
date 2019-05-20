@@ -11,3 +11,6 @@ delpoy:
 
    api_key:
       secure: JLpdDPK-TCZnkZ0n4cPcJA
+
+on:
+   tags:   true 
