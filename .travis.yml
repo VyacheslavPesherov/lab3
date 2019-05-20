@@ -1,0 +1,13 @@
+language: cpp
+
+compiler:
+   - gcc
+
+script:
+   - make
+
+delpoy:
+   file: geo.exe
+
+   api_key:
+      secure: JLpdDPK-TCZnkZ0n4cPcJA
